@@ -1,0 +1,6 @@
+db.sqlite3 
+geckodriver.log 
+00_prereqs.ipynb 
+01_django_setup_functional_test.ipynb 
+"__pycache__" 
+"*.pyc" 
